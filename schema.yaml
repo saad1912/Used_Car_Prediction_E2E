@@ -1,0 +1,15 @@
+COLUMNS: 
+  brand: object 
+  model: object 
+  vehicle_age: int64  
+  km_driven: int64  
+  seller_type: object 
+  fuel_type: object 
+  transmission_type: object 
+  mileage: float64
+  engine: float64
+  max_power: float64
+  seats: int64  
+
+TARGET_COLUMN: 
+  name: selling_price

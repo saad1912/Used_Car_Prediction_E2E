@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: https://github.com/saad1912/Used-Car-Prediction-Cardekho-/raw/main/cardekho_cleaned.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
