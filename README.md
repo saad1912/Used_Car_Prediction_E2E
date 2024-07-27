@@ -49,4 +49,5 @@ Open local host 0.0.0.0:8080
 
 
 
-### URI : 009160051451.dkr.ecr.ap-south-1.amazonaws.com/mlproject
+### ECR URI : 009160051451.dkr.ecr.ap-south-1.amazonaws.com/mlproject
+### AWS EC2 link: http://13.233.102.49:8080/
