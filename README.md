@@ -1,11 +1,14 @@
 # Used_Car_Prediction_E2E 
 
-## Introduction Video 
+## Video 
 
 Here’s a video introduction to the project:-
 
 [![Video Thumbnail](Used_Car_E2E_thumbnail.png)](https://drive.google.com/file/d/1FXFT_ooKv018iVQ6j_Gpnq62D6D5Ohc0/view?usp=drive_link)
 
+# Github Actions (cicd.yaml)
+
+![cicd](cicd.png)
 
 
 ## Workflows
