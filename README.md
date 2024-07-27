@@ -19,3 +19,7 @@ Here’s a video introduction to the project:
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+
+
+
+### URI : 009160051451.dkr.ecr.ap-south-1.amazonaws.com/mlproject
