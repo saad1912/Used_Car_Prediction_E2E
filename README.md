@@ -4,7 +4,7 @@
 
 Here’s a video introduction to the project:
 
-[![Video Thumbnail](https://drive.google.com/file/d/1IiHZY44N2gUxp-G70n7-nHk1HX7rIXoy/view?usp=drive_link)](https://drive.google.com/file/d/1FXFT_ooKv018iVQ6j_Gpnq62D6D5Ohc0/view?usp=drive_link)
+[![Video Thumbnail](Used_Car_E2E_thumbnail.png)](https://drive.google.com/file/d/1FXFT_ooKv018iVQ6j_Gpnq62D6D5Ohc0/view?usp=drive_link)
 
 
 
