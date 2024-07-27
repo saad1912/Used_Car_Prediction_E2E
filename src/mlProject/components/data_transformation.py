@@ -9,7 +9,7 @@ class DataTransformation:
     def __init__(self, config: DataTransformationConfig):
         self.config = config
 
-
+    
 
     def train_test_spliting(self):
         data = pd.read_csv(self.config.data_path)
