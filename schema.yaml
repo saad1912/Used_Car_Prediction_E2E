@@ -9,7 +9,8 @@ COLUMNS:
   mileage: float64
   engine: float64
   max_power: float64
-  seats: int64  
+  seats: int64
+  selling_price: int64 
 
 TARGET_COLUMN: 
   name: selling_price
